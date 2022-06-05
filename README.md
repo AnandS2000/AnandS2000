@@ -28,7 +28,7 @@ A self-taught geek developer and builder in full-stack web development, blockcha
 
 <br/>
 
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=A5C4D4)](https://www.buymeacoffee.com/aamware)
+[!["Buy Me A Coffee"]([https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=A5C4D4)](https://www.buymeacoffee.com/aamware](https://www.buymeacoffee.com/anandsharm))
 
 
 ### ✍️Random Dev Quote
