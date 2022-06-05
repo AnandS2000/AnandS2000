@@ -7,13 +7,13 @@ A self-taught geek developer and builder in full-stack web development, blockcha
 - 🔭 I’m currently working on [**`Computergeeks`**](https://github.com/aamware/Weddingduniya).
 - 🌱 I’m currently learning everything 🤣
 - 🌏 I like to contribute to open source and explore github.
-- 🤝 If you want any collaboration feel free to mail me at malviyaaabhash15@gmail.com.
+- 🤝 If you want any collaboration feel free to mail me at anandsharma05a.d@gmail.com.
 - 🥅 2022 Goals: Gain experience with work 💸 and achieve oscp cetificate.
 - ⚡ Fun fact: I love to watch anime and ride bike 🏍️.
 
 ## 🌐Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adware_malware/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabhash-malviya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aabhash_malviya) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/adware_malware) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/707131580782608386)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a_n_an_d/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-sharma-a24b69177/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anandsh35206498) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/a_n_an_d_sharma) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/Computer geeks - Anand Sharma#0027)
 
 ## Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aabhashzzz1&bg_color=000000&color=82ADC4&line=A5C4D4&hide_border=true)
